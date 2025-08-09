@@ -1,6 +1,25 @@
-## Hi there 👋
+## About Me :P
+```
+public class Me()
+{
+    public List<Projects> CurrentProjects = new() { "My website",
+                                                    "Console based roguelike" };
 
-- 🔭 I’m currently working on my website, as well as a terminal based roguelike
-- 🌱 I currently know HTML & CSS, JS, SQL, C#, Java, Python and am wanting to learn Rust, C++, and React. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I blew up a thermometer once
+    public List<Languages> KnownLanguages = new() { "HTML & CSS",
+                                                    "SASS",
+                                                    "JavaScript",
+                                                    "Python",
+                                                    ".NET",
+                                                    "C#",
+                                                    "Java",
+                                                    "SQL" };
+
+    public List<Languages> DesiredLanguages = new() { "Rust",
+                                                      "C++",
+                                                      "React" };
+
+    public OperatingSystem MyMachine = "Windows";
+
+    private string FunFact = "I blew up a thermometer once";
+}
+```
