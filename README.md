@@ -26,4 +26,4 @@ public class Me()
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ScarrleTRain&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarrleTRain\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarrleTRain)
