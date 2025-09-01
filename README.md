@@ -23,3 +23,7 @@ public class Me()
     private string FunFact = "I blew up a thermometer once";
 }
 ```
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ScarrleTRain&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarrleTRain\&layout=compact)
