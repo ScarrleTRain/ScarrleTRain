@@ -12,15 +12,17 @@ public class Me()
                                                     ".NET",
                                                     "C#",
                                                     "Java",
-                                                    "SQL" };
+                                                    "SQL",
+                                                    "C++" };
 
     public List<Languages> DesiredLanguages = new() { "Rust",
-                                                      "C++",
                                                       "React" };
 
     public OperatingSystem MyMachine = "Windows";
+    public Editor MyIDE = "Visual Studio 2026 or VS Code";
 
     private string FunFact = "I blew up a thermometer once";
+    private string Imperitive = "Go check out my website";
 }
 ```
 
